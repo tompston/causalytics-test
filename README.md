@@ -4,6 +4,13 @@
 - Did not use `vuetify` because don't have the time to learn it. Instead using `tailwind` + a [small helper library](https://github.com/tompston/css-helpers) written by me that has helped me to manage css previously.
 - The example includes an `fb` package for fetching data. Using it on the frontend client causes a bug because of the `url` module from node. To keep things simple and reduce dependencies, that fetch function can be written from scratch. 2 benefits come from this approach = simpler to understand what's happening and better security because of reduced reliance on external stuff.
 
+### Running the project
+
+```bash
+npm i
+npm run dev
+```
+
 ### project structure
 
 ```
