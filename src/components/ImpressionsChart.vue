@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { Doughnut } from "vue-chartjs";
-import { defineProps } from "vue";
+// import { defineProps } from "vue";
 import { generateArrayOfHexColors } from "@/assets/ts";
 import {
   Chart as ChartJS,
