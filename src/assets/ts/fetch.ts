@@ -1,6 +1,6 @@
 const API_SETTINGS = {
   access_token:
-    'EAAKcSDiKTcABAMNOn3MgD9dh30VsKpuWNIGb8IeOsa3kSxlzwVA9RS5qEcyETtnn54Hk6ZBwKTUFvoJDplAUGn0iSdiO2pMVilplXd5IZCzp7sJ73L8sZAXklYTnwfsxUgkXLAhFp7qwKZAdzZBKQaS3kdCsbtovZCGk9biwRiQX3OpqgdjNIiJ07ccLJdrUDZAOBtSzjqVAgZDZD',
+    'EAAKcSDiKTcABAIvBu1ZCIVBHu0XZBWSSys2ezoTDaAmF2GMehDWpsjj6UsdSE4TTf03prTBO3uZC8vSiLiNS1K9gX5q55tdwh9pdNfWo7pzzWCQstX8PtLu9vBZANntgkIPEvNeQe5sWZAuGZAAgw1342y04ZBj4lFGpDxtiQCLJV3t17RbvmZAOYn8s3si54x0ZD',
   fields: 'campaign_id%2Ccampaign_name%2Cimpressions&level=campaign',
   limit: '25',
 }
